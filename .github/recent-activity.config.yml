@@ -1,0 +1,14 @@
+# Example recent-activity.config.yml
+# You can customize the settings as needed
+
+# Number of events to display
+max_events: 5
+
+# Filters for events
+event_filters:
+  - PushEvent
+  - PullRequestEvent
+  - IssuesEvent
+
+# Template for the activity markdown
+activity_template: "- ${{ activity.icon }} ${{ activity.event }} in [${{ activity.repo.name }}](${{ activity.repo.url }})"
