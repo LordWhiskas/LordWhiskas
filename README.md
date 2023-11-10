@@ -1,4 +1,6 @@
 # Hi, I'm Kyryl Zuiev! 👋
+
+## Visitor Counts
 ![Visitor Count](https://profile-counter.glitch.me/{LordWhiskas}/count.svg)
 
 ## About Me
