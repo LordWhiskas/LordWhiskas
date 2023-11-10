@@ -12,10 +12,10 @@
 - 🌐 Python, PyTorch, C#, C, Java(basic lvl), HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, WandB
 
 ## GitHub Stats
-![Kyryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordWhiskas&show_icons=true&theme=radical)
+![Kyryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordWhiskas&show_icons=true&theme=transparent)
 
 ## My languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordWhiskas&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordWhiskas&hide_progress=true&theme=transparent)
 
 
 ## Contact Me
