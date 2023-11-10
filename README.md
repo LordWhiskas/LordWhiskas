@@ -21,10 +21,9 @@
 - 🌐 Python, PyTorch, C#, C, Java(basic lvl), HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, WandB
 
 ## Last Works
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/LordWhiskas/test/pull/1#issuecomment-1806545372) in [LordWhiskas/test](https://github.com/LordWhiskas/test)
-2. 💪 Opened PR [#1](https://github.com/LordWhiskas/test/pull/1) in [LordWhiskas/test](https://github.com/LordWhiskas/test)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 
 ## GitHub Stats
