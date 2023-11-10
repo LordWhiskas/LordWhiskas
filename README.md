@@ -1,10 +1,19 @@
-### Hi there 👋
+# Hi, I'm Kyryl Zuiev! 👋
 
-<!--
-**LordWhiskas/LordWhiskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+👨‍💻 I'm a developer with a passion for neural network architectures. Currently, I'm deeply involved in studying Capsule Neural Networks and exploring the visualization of hierarchies within these systems.
 
-Here are some ideas to get you started:
+## Current Studies and Research
+🧠 Focusing on Capsule Neural Networks, which promise a more structured approach to machine learning, especially in understanding spatial hierarchies. I'm particularly interested in how visualizing these hierarchies can provide deeper insights into network decisions.
 
-- 🔭 I’m currently working on Capsule Hierarchic Visualization
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: [...](https://www.instagram.com/kyryl_zuiev_/)https://www.instagram.com/kyryl_zuiev_/
+## Skills
+- 🤖 Machine Learning, Capsule Neural Networks, Robotics
+- 📊 Data Visualization
+- 🌐 Python, PyTorch, C#, C, Java(basic lvl), HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, WandB
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LordWhiskas&show_icons=true)
+
+## Contact Me
+- LinkedIn: ([LinkedIn URL](https://www.linkedin.com/in/kyryl-zuiev-3b477026a/)https://www.linkedin.com/in/kyryl-zuiev-3b477026a/)
+- Email: kyryl.zuiev34351@gmail.com
