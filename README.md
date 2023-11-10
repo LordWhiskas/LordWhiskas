@@ -15,7 +15,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LordWhiskas&show_icons=true)
 
 ## My languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordWhiskas&hide_progress=true)
 
 
 ## Contact Me
