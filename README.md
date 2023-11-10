@@ -14,6 +14,10 @@
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LordWhiskas&show_icons=true)
 
+## My languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
 ## Contact Me
 - LinkedIn: [LinkedIn URL](https://www.linkedin.com/in/kyryl-zuiev-3b477026a/)
 - Email: kyryl.zuiev34351@gmail.com
