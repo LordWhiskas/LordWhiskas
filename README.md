@@ -11,6 +11,9 @@
 - 📊 Data Visualization
 - 🌐 Python, PyTorch, C#, C, Java(basic lvl), HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, WandB
 
+## Last Works
+<!--START_SECTION:activity-->
+
 ## GitHub Stats
 ![Kyryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordWhiskas&show_icons=true&theme=transparent)
 
