@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyryl-zuiev-3b477026a/)](https://www.linkedin.com/in/kyryl-zuiev-3b477026a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kyryl_zuiev_/)](https://www.instagram.com/kyryl_zuiev_/)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/gooojda)](https://t.me/gooojda)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=kyryl.zuiev34351@gmail.com)](mailto:kyryl.zuiev34351@gmail.com)
 
 
 - Email: kyryl.zuiev34351@gmail.com
