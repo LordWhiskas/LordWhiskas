@@ -1,4 +1,5 @@
 # Hi, I'm Kyryl Zuiev! 👋
+![Visitor Count](https://profile-counter.glitch.me/{LordWhiskas}/count.svg)
 
 ## About Me
 👨‍💻 I'm a developer with a passion for neural network architectures. Currently, I'm deeply involved in studying Capsule Neural Networks and exploring the visualization of hierarchies within these systems.
