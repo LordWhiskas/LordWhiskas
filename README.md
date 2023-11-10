@@ -9,9 +9,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/gooojda)](https://t.me/gooojda)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=kyryl.zuiev34351@gmail.com)](mailto:kyryl.zuiev34351@gmail.com)
 
-
-- Email: kyryl.zuiev34351@gmail.com
-
 ## About Me
 👨‍💻 I'm a developer with a passion for neural network architectures. Currently, I'm deeply involved in studying Capsule Neural Networks and exploring the visualization of hierarchies within these systems.
 
