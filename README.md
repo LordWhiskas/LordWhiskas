@@ -15,5 +15,5 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LordWhiskas&show_icons=true)
 
 ## Contact Me
-- LinkedIn: ([LinkedIn URL](https://www.linkedin.com/in/kyryl-zuiev-3b477026a/)https://www.linkedin.com/in/kyryl-zuiev-3b477026a/)
+- LinkedIn: [LinkedIn URL](https://www.linkedin.com/in/kyryl-zuiev-3b477026a/)
 - Email: kyryl.zuiev34351@gmail.com
