@@ -13,6 +13,8 @@
 
 ## Last Works
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ## GitHub Stats
 ![Kyryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordWhiskas&show_icons=true&theme=transparent)
