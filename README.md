@@ -15,6 +15,7 @@
 
 ## Current Studies and Research
 🧠 Focusing on Capsule Neural Networks, which promise a more structured approach to machine learning, especially in understanding spatial hierarchies. I'm particularly interested in how visualizing these hierarchies can provide deeper insights into network decisions.
+- [ChatGPT-4 pre-trained on my knowledges of Capsule Neural Networks](https://chat.openai.com/g/g-sWnCG3xIW-capsule-network-guide)
 
 ## Skills
 - 🤖 Machine Learning, Capsule Neural Networks, Robotics
