@@ -20,8 +20,6 @@
 - 📊 Data Visualization
 - 🌐 Python, PyTorch, C#, C, Java(basic lvl), HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, WandB
 
-## Recent works
-<!--RECENT_ACTIVITY:start-->
 
 
 ## GitHub Stats
