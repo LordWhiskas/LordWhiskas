@@ -1,3 +1,4 @@
+![Header](./images/banner.jpg)
 # Hi, I'm Kyryl Zuiev! 👋
 
 ## Visitor Counts
