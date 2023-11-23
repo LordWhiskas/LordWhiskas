@@ -20,7 +20,7 @@
 ## Skills
 - 🤖 Machine Learning, Capsule Neural Networks, Robotics
 - 📊 Data Visualization
-- 🌐 Python, PyTorch, C#, C, Java(basic lvl), HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, WandB
+- 🌐 Python, PyTorch, C#, C, Java(basic lvl), HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, WandB, Next.js
 
 
 
